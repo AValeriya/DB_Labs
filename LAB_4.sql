@@ -1,0 +1,32 @@
+SELECT * FROM Game
+WHERE Prices IN (50, 55, 80);
+
+SELECT * FROM Game
+WHERE Prices NOT IN (50, 55, 80);
+
+SELECT * FROM Game
+WHERE Prices BETWEEN 50 AND 80;
+
+SELECT * FROM Game
+WHERE GameName LIKE 'G%';
+
+SELECT AVG(Prices) FROM Game
+WHERE Country='USA';
+
+SELECT AVG (Prices) FROM Game;
+
+SELECT COUNT(*) FROM Game;
+
+SELECT COUNT(DISTINCT Prices) FROM Game;
+
+SELECT MIN(Prices) FROM Game;
+
+SELECT MAX(Prices) FROM Game;
+
+SELECT SUM(Prices) FROM Game;
+
+SELECT STRING_AGG(GameName, ', ') FROM Game;
+
+SELECT Country, COUNT(*) AS CountryCount
+FROM Game
+GROUP BY Country;
