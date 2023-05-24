@@ -1,0 +1,13 @@
+D:\5SEM\bd\DB_client\DB_client\obj\Debug\DB_client.csproj.AssemblyReference.cache
+D:\5SEM\bd\DB_client\DB_client\obj\Debug\DB_client.csproj.CoreCompileInputs.cache
+D:\5SEM\bd\DB_client\DB_client\bin\Debug\DB_client.exe.config
+D:\5SEM\bd\DB_client\DB_client\bin\Debug\DB_client.exe
+D:\5SEM\bd\DB_client\DB_client\bin\Debug\DB_client.pdb
+D:\5SEM\bd\DB_client\DB_client\bin\Debug\Mono.Security.dll
+D:\5SEM\bd\DB_client\DB_client\bin\Debug\NauckIT.PostgreSQLProvider.dll
+D:\5SEM\bd\DB_client\DB_client\bin\Debug\Npgsql.dll
+D:\5SEM\bd\DB_client\DB_client\bin\Debug\Npgsql.xml
+D:\5SEM\bd\DB_client\DB_client\obj\Debug\DB_client.csproj.CopyComplete
+D:\5SEM\bd\DB_client\DB_client\obj\Debug\DB_client.exe
+D:\5SEM\bd\DB_client\DB_client\obj\Debug\DB_client.pdb
+D:\5SEM\bd\DB_client\DB_client\obj\Debug\DB_client.csproj.SuggestedBindingRedirects.cache

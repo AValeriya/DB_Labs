@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "n+TEB1Dy3x7snMqv92g65WWD/lcdnWjKso+/7LScW7bGGvd1b5qSEhsMCNnP1imsO08AU6WyUqN+3nrko7gO6g==",
+  "success": true,
+  "projectFilePath": "D:\\5SEM\\bd\\DB_client\\DB_client_net\\DB_client_net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
